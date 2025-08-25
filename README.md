@@ -101,8 +101,7 @@ O desenvolvimento foi inspirado neste notebook:
 ## 🎯 Exemplo de Resultado  
 
 > Exemplo de detecção de placa em uma imagem:  
-
-![Resultado da Detecção](https://raw.githubusercontent.com/ultralytics/assets/main/yolo/plate-detection-example.jpg)  
+![Resultado da Detecção](detection.png)  
 *(adicione um print gerado pelo seu modelo aqui)*  
 
 ---
@@ -114,3 +113,4 @@ Este projeto é de uso livre para fins acadêmicos e de pesquisa.
 ---
 
 ✨ Desenvolvido por **Fernando Linhares Silvestre**  
+
