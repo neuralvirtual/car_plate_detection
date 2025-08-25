@@ -101,14 +101,10 @@ O desenvolvimento foi inspirado neste notebook:
 ## 🎯 Exemplo de Resultado  
 
 > Exemplo de detecção de placa em uma imagem:  
-![Resultado da Detecção](detection.png)
+![Resultado da Detecção](detection1.png)
+![alt text](detection2.png)
 ---
 
 ## 📜 Licença  
 
 Este projeto é de uso livre para fins acadêmicos e de pesquisa.  
-
----
-
-✨ Desenvolvido por **Fernando Linhares Silvestre**  
-
