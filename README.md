@@ -101,8 +101,8 @@ O desenvolvimento foi inspirado neste notebook:
 ## 🎯 Exemplo de Resultado  
 
 > Exemplo de detecção de placa em uma imagem:  
-![Resultado da Detecção](detection1.png)
-![alt text](detection2.png)
+![Resultado da Detecção 1](detection1.png)
+![Resultado da Detecção 2](detection2.png)
 ---
 
 ## 📜 Licença  
