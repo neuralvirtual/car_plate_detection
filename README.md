@@ -101,9 +101,7 @@ O desenvolvimento foi inspirado neste notebook:
 ## 🎯 Exemplo de Resultado  
 
 > Exemplo de detecção de placa em uma imagem:  
-![Resultado da Detecção](detection.png)  
-*(adicione um print gerado pelo seu modelo aqui)*  
-
+![Resultado da Detecção](detection.png)
 ---
 
 ## 📜 Licença  
